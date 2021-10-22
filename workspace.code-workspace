@@ -1,0 +1,8 @@
+{
+	"folders": [
+		{
+			"name": "SSH FS - sho",
+			"uri": "ssh://sho/home/notebooks"
+		}
+	]
+}
